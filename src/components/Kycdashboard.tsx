@@ -154,7 +154,7 @@ const KycDashboard = () => {
       {/* Main Content */}
       <div className="flex flex-1 flex-col">
         {/* Header */}
-        <header className="z-50 flex h-16 items-center justify-between bg-white shadow-md px-4 md:px-6 dark:bg-gray-900">
+        <header className="z-50 flex h-16 items-center justify-between bg-white shadow-md px-4 md:px-6">
           <h1 className="text-2xl font-semibold">KYC Dashboard</h1>
         </header>
 
